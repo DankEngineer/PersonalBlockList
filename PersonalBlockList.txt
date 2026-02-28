@@ -1,7 +1,7 @@
-!Personal  AdBlock List
+!Personal AdBlock List
 !
-!intended for use in zen-desktop 
-!filters sorted based on specific application that the filters are made for
+!Intended for use in zen-desktop 
+!Filters sorted based on specific application that the filters are made for
 !
 !
 !Blitz
