@@ -1,0 +1,11 @@
+!Personal  AdBlock List
+!
+!intended for use in zen-desktop 
+!filters sorted based on specific application that the filters are made for
+!
+!
+!Blitz
+probuilds.net##div[class="⚡b5a12479"]
+probuilds.net##div[class="⚡20d2110e"]
+probuilds.net##div.span-all:has(img[src*="/blitz/lol/misc/"])
+probuilds.net##div[class*="🤑-container"]
