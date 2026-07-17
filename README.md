@@ -12,12 +12,16 @@ This list is designed for the [zen-desktop](https://github.com/ZenPrivacy/zen-de
 
 ```
 In the zen-desktop application
+~~Go to:~~
+~~Filter lists 🠊 Drop down menu 🠊 Custom~~
+~~Next:~~
+~~Insert the URL of the list (https://raw.githubusercontent.com/DankEngineer/PersonalBlockList/refs/heads/main/PersonalBlockList.txt)~~
+~~Finally:~~
+~~Enable Trusted (The list is well commented and should be human readable, feel free to audit it yourself)~~
 Go to:
-Filter lists 🠊 Drop down menu 🠊 Custom
+Rules
 Next:
-Insert the URL of the list (https://raw.githubusercontent.com/DankEngineer/PersonalBlockList/refs/heads/main/PersonalBlockList.txt)
-Finally:
-Enable Trusted (The list is well commented and should be human readable, feel free to audit it yourself)
+Copypaste The rules into the field from the PersonalBlockList.txt
 ```
 
 ## License
