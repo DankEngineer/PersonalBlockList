@@ -10,19 +10,21 @@ NOTE: This is an experimental filter primarily intended for my personal use howe
 This list is designed for the [zen-desktop](https://github.com/ZenPrivacy/zen-desktop) application.
 
 
-```
+
 In the zen-desktop application
+
+Go to:
+Rules
+Next:
+Copypaste The rules into the field from the [PersonalBlockList.txt](https://raw.githubusercontent.com/DankEngineer/PersonalBlockList/refs/heads/main/PersonalBlockList.txt)
+
 ~~Go to:~~
 ~~Filter lists 🠊 Drop down menu 🠊 Custom~~
 ~~Next:~~
 ~~Insert the URL of the list (https://raw.githubusercontent.com/DankEngineer/PersonalBlockList/refs/heads/main/PersonalBlockList.txt)~~
 ~~Finally:~~
 ~~Enable Trusted (The list is well commented and should be human readable, feel free to audit it yourself)~~
-Go to:
-Rules
-Next:
-Copypaste The rules into the field from the PersonalBlockList.txt
-```
+
 
 ## License
 
