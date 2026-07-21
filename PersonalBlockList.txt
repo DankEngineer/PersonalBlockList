@@ -6,4 +6,8 @@
 !
 !Blitz
 ##.🤑-container
+##.🤑-wrapper
 ##div[class="⚡b5a12479"]
+##.ads-rail-marker
+##.🤑-rectangle
+##.🤑-leaderboard
